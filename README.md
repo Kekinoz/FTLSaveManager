@@ -27,7 +27,7 @@ If you wish to contact me, your best bet would be sending me a private message o
 
 ## Download
 
-From GitHub, select the Batch (.bat) file you need (Steam, Epic or Other) and click the "Download Raw" button.
+From GitHub, select the Batch (.bat) file you need (Steam, Epic or Other) and click the "Download raw file" button (NOT the "Raw" icon, the box with an arrow one).
 
 Alternatively, from the main page click the green "Code" button -> Download ZIP, then unzip the file once downloaded. This will download this README.md, the LICENSE and all of the Batch files.
 
