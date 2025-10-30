@@ -61,8 +61,7 @@ If you have not downloaded the game from Steam or EpicGames, see **Usage** for f
 <ins>**3.2)**</ins>Right click the "FTLSaveManager - OTHER.bat" file -> create shortcut, then drag the newly created shortcut wherever you please.
 
 4) If you acquired the game from any other source:
-* Any batch file will work (But see NOTE below).
-* **NOTE**: the Save Managing function of this application should work anyways, but it will not lauch the game as-is. 
+* **NOTE**: the Save Managing function of this application should work anyways, but it will not lauch the game as-is. Any batch file will work for the save managing, but you should use "FTLSaveManager - OTHER.bat" because the others will start Epic/Steam if you have them installed.
 * You can still launch the game manually using the method which does not involve this application.
 * **Starting the game from the app in this case is not supported and likely never will be.**
 * You may have some luck restoring this functionality manually by modifying any "FTLSaveManager - ... .bat" file by changing the url from the 5th to last line of the code to the URL you can find in a working shortcut to open the game, and then correcting eventual bugs most likely caused by symbols in the path by looking up [This guide by Rob van der Woude](https://www.robvanderwoude.com/escapechars.php).
