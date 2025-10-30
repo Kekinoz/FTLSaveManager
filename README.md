@@ -4,7 +4,7 @@ FTLSaveManager is a Windows Batch File application.
 This program aims to implement a simple Save File Manager for FTL: Faster than Light, a game by Subset Games.
 
 The current version of this software is **1.0.0**.
-This program was made for FTL: faster than Light v1.6.12 .
+This program was made for FTL: Faster than Light v1.6.12 .
 At the time of creation the Microsoft Command Prompt version is 10.0.19045.6456 .
 
 Features currently supported:
