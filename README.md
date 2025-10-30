@@ -5,7 +5,7 @@ This program aims to implement a simple Save File Manager for FTL: Faster than L
 
 The current version of this software is **1.0.0**.
 This program was made for FTL: faster than Light v1.6.12 .
-At the time of creation the Command Prompt version is 10.0.19045.6456 .
+At the time of creation the Microsoft Command Prompt version is 10.0.19045.6456 .
 
 Features currently supported:
 
