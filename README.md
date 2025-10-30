@@ -84,6 +84,8 @@ If you have not downloaded the game from Steam or EpicGames, see **BEFORE FIRST 
 
 - There may be other lines, those will contain either debug information or error codes. Usually you can ignore those, but make sure to include them if you are sending an error report.
 
+- The command propmt will remain open on a pause screen, to help you reporting bugs or asking for help. It serves no other function as the application will have already done its job (or failed with an error). When the "press any key to continue . . ." line appears, pressing any key after selecting the prompt window will close the program.
+
 1) **Load the CURRENT save file**: input the number that you can see in the "Current save file number: " line that is just above the cursor, then press Enter.
 
 - This may generate the index number file in the current save if not present, or do nothing and start the game.
